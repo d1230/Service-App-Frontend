@@ -1,0 +1,8 @@
+const JWT = {
+  APS_SECRET: "19BAC519A18A7528CB25827121684",
+  EXPIRES_IN: 10000,
+};
+
+module.exports = {
+  JWT
+};
